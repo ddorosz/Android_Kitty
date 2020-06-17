@@ -1,0 +1,18 @@
+---
+version: 1
+service:
+  name: YamlDotfileFail
+  lifecycle: 
+  tier: 
+  product: 
+  owner: 
+  language: 
+  framework: 
+  description: 
+  aliases: 
+  repositories:
+  - name: suraj-testing2/Android_Kitty
+    path: test
+    provider: github
+    display_name: Yo
+  tools: 
